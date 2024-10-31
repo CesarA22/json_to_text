@@ -68,6 +68,3 @@ def json_to_text():
         print(f"Ocorreu um erro: {e}")
 
 json_to_text()
-
-# c:/Users/cesar/Downloads/resultado.json
-# c:/Users/cesar/Downloads/saida.txt
